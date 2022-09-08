@@ -3,7 +3,7 @@
 /**
  * main - To print some random tesxt
  *
- * Return Always 1 (succeded)
+ * Return: Always 1 (succeded)
  */
 
 int main(void)
