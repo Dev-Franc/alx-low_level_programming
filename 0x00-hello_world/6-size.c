@@ -3,10 +3,11 @@
 /**
  * main - Print the size of multiple var types
  *
- * Return Always (success)
+ * Return Always 0 (success)
  */
 
-int main(void){
+int main(void)
+{
 	char a;
 	int n;
 	long int e;
@@ -18,6 +19,6 @@ int main(void){
 	printf("The size of a long int: %d byte(s)\n", sizeof(e));
 	printf("The size of a long long int: %d byte(s)\n", sizeof(l));
 	printf("The size of a float: %d byte(s)\n", sizeof(c));
-	return(0)
+	return(0);
 }
 
