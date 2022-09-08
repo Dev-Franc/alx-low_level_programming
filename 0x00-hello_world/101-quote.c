@@ -1,7 +1,7 @@
 #include <unistd.h>
 
 /**
- * main - Printing a text
+ * main - To print some random tesxt
  *
  * Return Always 1 (succeded)
  */

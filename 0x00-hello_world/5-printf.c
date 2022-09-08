@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Printing a text
+ * main - With proper grammer...
  *
  * Return: Always 0 (Sussess)
  */
