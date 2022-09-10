@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 /**
  * main - print combinations of two two-digit numbers
  * 
@@ -13,7 +14,7 @@ int main(void)
 
 	for (i = 0; i < 100; i++)
 	{
-		for (p = 0; p < 100; j++)
+		for (p = 0; p < 100; i++)
 		{
 			if (p > i)
 			{
@@ -28,9 +29,7 @@ int main(void)
 					putchar(' ');
 				}
 			}
-
 		}
-
 	}
 	putchar('\n');
 
