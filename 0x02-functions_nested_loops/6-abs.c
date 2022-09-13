@@ -4,7 +4,7 @@
 /**
  * _abs - value absolute
  *
- *@n: arguent for the function 
+ *@n: arguent for the function
  *
  * Return: 0
  */
