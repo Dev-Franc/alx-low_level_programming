@@ -3,8 +3,8 @@
 
 /**
  * add - adds two numbers
- * @i: print int a
- * @k: print int b
+ * @a: print int a
+ * @b: print int b
  * Return: Always 0.
  */
 

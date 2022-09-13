@@ -4,26 +4,17 @@
 /**
  * _abs - value absolute
  *
- * Return: Always 0.
+ *@n: arguent for the function 
+ *
+ * Return: 0
  */
 
-int _abs(void)
+int _abs(int n)
 {
-	int n;
-
-	if (n < 0)
+	if (n > 0 || n == 0)
 	{
-		return (n * (-1));
+	return (n);
 	}
-
-	else if (n == 0)
-	{
-		return (0);
-	}
-
 	else
-	{
-		return (n);
-	}
-
+	return (n * -1);
 }
