@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * print_time_table - prints the times table
+ * print_times_table - prints the times table
  *
  * @n : times table to use
  *
