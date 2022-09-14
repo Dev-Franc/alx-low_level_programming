@@ -7,7 +7,7 @@
  * Return: 0
  */
 
-void print_time_table(int n)
+void print_times_table(int n)
 {
 	int a = 0, rep, b;
 
