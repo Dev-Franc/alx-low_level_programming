@@ -1,8 +1,7 @@
 #include <stdio.h>
 
 /**
- *
- * main - fabonacci numbers
+ * main - sum of the even-valued terms
  *
  * Return: 0
  */
